@@ -3,7 +3,7 @@ This repository is about learning how to build a responsive mobile first contact
 
 
 ## References and Sources
-* https://www.youtube.com/watch?v=Sb5qOa3R4hY
+* Mobile First Responsive Contact Form Featuring Grid CSS - https://www.youtube.com/watch?v=Sb5qOa3R4hY
 
 
 ## CSS Concepts
